@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "description": "User Interface for the 'Logic Workbench (lwb)'",
   "keywords": ["lwb", "clojure"],
-  "repository": "https://github.com/njustus/lwb-ui-bin",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/njustus/lwb-ui-bin.git"
+  },
   "license": "Eclipse Public License",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

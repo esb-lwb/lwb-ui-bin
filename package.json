@@ -1,9 +1,12 @@
 {
   "name": "lwb-ui",
   "main": "./lib/lwb-ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "User Interface for the 'Logic Workbench (lwb)'",
-  "keywords": ["lwb", "clojure"],
+  "keywords": [
+    "lwb",
+    "clojure"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/njustus/lwb-ui-bin.git"

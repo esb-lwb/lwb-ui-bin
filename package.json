@@ -15,8 +15,8 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "scripts": {
-    "prepare-release": "rm -rf .git/ && git init . && git remote add origin git@github.com:njustus/lwb-ui-bin.git && git fetch origin && git add ."
+  "activationCommands": {
+    "atom-workspace": ["lwb-ui:toggle"]
   },
   "dependencies": {
     "atom-package-deps": "^4.6.0"

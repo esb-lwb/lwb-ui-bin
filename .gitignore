@@ -1,5 +1,6 @@
-out/
 .DS_Store
 .npm-debug.log
 lib/cljs-runtime
+
 node_modules/
+out/

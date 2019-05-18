@@ -31,6 +31,10 @@
         {
         'label': 'Natural Deduction'
         'command': 'lwb-ui:natural-deduction'
+        },
+        {
+        'label': 'Combinatory Logic'
+        'command': 'lwb-ui:combinatory-logic'
         }
       ]
     ]
